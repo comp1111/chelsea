@@ -1,0 +1,19 @@
+body {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+div#container {
+	background-color: rgba(0,0,0,0.5);
+	min-width:850px;
+	margin-left: auto;
+	margin-right: auto;
+	min-height: 300px;
+	margin: 0 auto -4em;
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+    padding-bottom: 50px;
+  border-radius: 25px; 
+}
