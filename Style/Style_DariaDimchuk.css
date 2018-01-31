@@ -22,9 +22,13 @@ div#bio {
 }
 
 div#logo {
-    padding: 15px;
+    padding-top: 15px;
     margin: 20px auto 0px auto;
     text-align: center;
+}
+
+#logoSetCimg{
+	height: 75px;
 }
 
 div#container {
