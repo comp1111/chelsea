@@ -1,0 +1,27 @@
+
+body {
+            background-color: #E3D5F1;
+        }
+.person {
+            width: 300px;
+            height: 300px;
+            min-width: 150px;
+            float: left;
+            clear: right;
+            margin-right: 2rem;
+            border-radius: 50%;
+            shape-outside: circle();
+        }
+h1 {
+            font-size: 4rem;
+            text-align: center;
+        }
+#bio {
+            width: 70%;
+        }
+#box {
+            margin-left: 20%;
+        }
+#logo {
+            margin-left: 40%;
+        }
